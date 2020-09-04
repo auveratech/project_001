@@ -37,7 +37,9 @@ header .topnav a:hover {
   -webkit-transform: scale(1.5);
   -ms-transform: scale(1.5);
   transform: scale(1.5);
-=======
+}
+
+body {
   background-color: #411f1f;
 }
 
